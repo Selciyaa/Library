@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>LIBRARY MANAGEMENT SYSTEM</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>LIBRARY MANAGEMENT SYSTEM</h1>
+  <p>Welcome to library</p> 
+  <img src="https://itechindia.co/wp-content/uploads/2021/11/main-banner1.jpeg" width="700" height="400">
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>FICTION</h3>
+      <p>
+        A practical joker, knowing what he had done, waited until he was 
+        asleep, then removed the gourd and tied it around his own leg. He, too, 
+        lay down on the caravanserai floor to sleep. The fool woke first, and saw 
+        the gourd. At first he thought that this other man must be him. Then he 
+        attacked the other, shouting: ‘If you are me: then who, for heaven’s sake, 
+        who and where am I?’
+        This tale, which also appears in the Mulla Nasrudin 
+        corpus of jokes which is known throughout Central 
+        Asia,  is  preserved  in  the  great  spiritual  classic 
+        Salaman  and  Absal, by the fifteenth-century author 
+        and mystic Abdur-Rahman Jami. He came from 
+        across the Oxus and died in Herat after establishing 
+        himself as one of the greatest literary figures in the 
+        Persian language.
+        Jami caused a great deal of resentment among 
+        divines  because  of  his  forthrightness,  especially 
+        by saying that he recognised no teacher except his 
+        own father.
+        </p>
+
+     
+    </div>
+    <div class="col-sm-4">
+      <h3>Horror</h3>
+      <p>Whether you’re a horror fanatic or jumping into the genre for the first time, we have the perfect books for you. 
+        By scouring the library and bestseller lists for horror books beloved by critics and readers,
+         we’ve pulled together a list that includes some of the best books of all time and new releases too. You’ll find the best Stephen King books here, of course, as well as other novels that have been made into our favorite scary movies.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Romance</h3>        
+      <p>If you’re going to read a romance book, why not start with one of the very best romance novels of all time?
+
+        Given that the romance book industry is in the billions with new books being released each and every day, there are A LOT of romance novels to choose from, in multiple sub-categories and in many romance book tropes.</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
